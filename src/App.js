@@ -19,7 +19,6 @@ function App() {
   useEffect(() => {
     const timer = setTimeout(() => {
       upadateLoad(false);
-      document.title = "Ishan Gogna"
     }, 1200);
     
     return () => clearTimeout(timer);

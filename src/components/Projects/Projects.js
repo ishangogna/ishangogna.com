@@ -24,7 +24,7 @@ function Projects() {
               isBlog={false}
               title="IdiotBox"
               description="Love to watch Movies/Series? Love Social Media? IdiotBox combines the two."
-              link="https://github.com/soumyajit4419/Chatify"
+              link="https://github.com/ishangogna"
             />
           </Col>
 
@@ -34,7 +34,7 @@ function Projects() {
               isBlog={false}
               title="HelpMeJarvis"
               description="Unsure where to dine tonight? Let Jarvis help you out there."
-              link="https://github.com/soumyajit4419/Plant_AI"
+              link="https://github.com/ishangogna"
             />
           </Col>
 
@@ -44,7 +44,7 @@ function Projects() {
               isBlog={false}
               title="AR Based Navigation"
               description="Android application that helps you figure out the path to your destination right on your camera."
-              link="https://github.com/soumyajit4419/Editor.io"
+              link="https://github.com/ishangogna"
             />
           </Col>
 
